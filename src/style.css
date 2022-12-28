@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.van-search__content {
+    border-radius: 50px !important;
+}
+
+.nav {
+    position: fixed;
+    top: 0;
+    background-color: #fff;
+    z-index: 999;
+}
+
+.Tabbar {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 999;
+}
+
+.van-icon-arrow-left, .van-nav-bar__text, .van-icon-photograph {
+    color: #28B8A1 !important;
+}
+
+.van-icon-search {
+    color: #37B5C3 !important;
+}
+
+
